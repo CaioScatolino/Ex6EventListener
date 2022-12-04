@@ -1,0 +1,3 @@
+[4.0 pontos] Crie uma tag <label> com o texto referente a uma cor e inclua um Event Listener para que, ao ser clicada, modifique a cor de fundo da tela para a cor equivalente.
+[4.0 pontos] Crie mais uma tag <label> com o texto referente a uma cor e inclua um Event Listener para que, ao passar o mouse por cima, modifique a cor de fundo da tela para a cor equivalente.
+[4.0 pontos] Crie mais uma tag <label> com o texto referente a uma cor e inclua um Event Listener para que, ao ser clicada duas vezes, modifique a cor de fundo da tela para a cor equivalente.
